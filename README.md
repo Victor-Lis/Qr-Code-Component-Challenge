@@ -14,6 +14,8 @@ Esse é mais um desafio de Front-End que realizo, dessa vez na temática de real
 ## Mobile Result
 ![Mobile result preview](./design/mobile-result.png)
 
+# Resultado
+Veja o [site](https://qr-code-component-by-dev-victor-lis.netlify.app/)
 
 ## Autores
 
